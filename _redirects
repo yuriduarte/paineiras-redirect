@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/*"
+  to = "https://ingressos.paineirascorcovado.com.br/"
+  status = 301
+  force = false
+  query = {path = ":path"}
